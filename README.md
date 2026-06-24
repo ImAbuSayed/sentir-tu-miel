@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sentir-tu-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sentir tu miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-miel/) |
+| **Get License** | [Get License For Sentir tu miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ee1018a4b435fd61c0595e9d3ec81124114f97db6ca66fa4f79561c6fbaaf515` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

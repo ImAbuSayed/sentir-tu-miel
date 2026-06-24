@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sentir tu miel
+
+This log tracks the cryptographic history and versioning for the song **Sentir tu miel** (sentir-tu-miel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T12:54:15.913363 | `v1` | `ee1018a4b435fd61c0595e9d3ec81124114f97db6ca66fa4f79561c6fbaaf515` | `23dc83dee5b93e2aab6b094e67926a8ce456177ffc3709d1b79371279cac44d3` | `2026-06-24_sentir-tu-miel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
