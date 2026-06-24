@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sentir-tu-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Sentir tu miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-miel/) |
+| **Get License** | [Request Licensing for Sentir tu miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, me tienes buscando el sabor de tu miel,
+> Rozando tu cuerpo, tatuándome lento en tu piel,
+> La disco está llena, pero tú me subes el nivel,
+> Vámonos de aquí, que esta historia la escribo en papel.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
